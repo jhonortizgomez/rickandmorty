@@ -1,7 +1,7 @@
 import getHash from '../utils/getHash';
 import getData from '../utils/getData';
 
-const Character = async() => {
+const Characters = async() => {
     const id = getHash();
     const character = await getData(id);
     const view = `
@@ -23,4 +23,4 @@ const Character = async() => {
     return view;
 };
 
-export default Character;
+export default Characters;
