@@ -1,6 +1,6 @@
 # Rick and Morty
 
-Esta es una single page application que consume una API.
+Bienvenido a la aplicación "Rick and Morty Explorer", una single page application diseñada para explorar el emocionante universo de Rick y Morty. Esta aplicación, creada con tecnologías modernas, te sumergirá en las aventuras intergalácticas de tus personajes favoritos.
 
 ## Tecnologia utilizadas
 
